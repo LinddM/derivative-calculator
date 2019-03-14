@@ -29,6 +29,7 @@ namespace Derivative_calculator
             foreach(string e in stack){
                 Console.Write(e);
             }
+
         }
 
         public static Node buildTree(List <string> rpn){
@@ -72,7 +73,7 @@ namespace Derivative_calculator
             List<string> output = new List <string>();
             List<string> operatorsStack = new List <string>();
             char before = ' ';
-                //just add parentheses
+                //parentheses missing
                 foreach(string e in elements){
                     if(!isOperator(e[0])){
                         output.Add(e);
