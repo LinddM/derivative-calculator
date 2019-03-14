@@ -1,0 +1,11 @@
+C:\Users\Lindsey\Desktop\S3\Estr\Derivative-calculator\bin\Debug\netcoreapp2.2\Derivative-calculator.deps.json
+C:\Users\Lindsey\Desktop\S3\Estr\Derivative-calculator\bin\Debug\netcoreapp2.2\Derivative-calculator.runtimeconfig.json
+C:\Users\Lindsey\Desktop\S3\Estr\Derivative-calculator\bin\Debug\netcoreapp2.2\Derivative-calculator.runtimeconfig.dev.json
+C:\Users\Lindsey\Desktop\S3\Estr\Derivative-calculator\bin\Debug\netcoreapp2.2\Derivative-calculator.dll
+C:\Users\Lindsey\Desktop\S3\Estr\Derivative-calculator\bin\Debug\netcoreapp2.2\Derivative-calculator.pdb
+C:\Users\Lindsey\Desktop\S3\Estr\Derivative-calculator\obj\Debug\netcoreapp2.2\Derivative-calculator.csprojAssemblyReference.cache
+C:\Users\Lindsey\Desktop\S3\Estr\Derivative-calculator\obj\Debug\netcoreapp2.2\Derivative-calculator.csproj.CoreCompileInputs.cache
+C:\Users\Lindsey\Desktop\S3\Estr\Derivative-calculator\obj\Debug\netcoreapp2.2\Derivative-calculator.AssemblyInfoInputs.cache
+C:\Users\Lindsey\Desktop\S3\Estr\Derivative-calculator\obj\Debug\netcoreapp2.2\Derivative-calculator.AssemblyInfo.cs
+C:\Users\Lindsey\Desktop\S3\Estr\Derivative-calculator\obj\Debug\netcoreapp2.2\Derivative-calculator.dll
+C:\Users\Lindsey\Desktop\S3\Estr\Derivative-calculator\obj\Debug\netcoreapp2.2\Derivative-calculator.pdb
