@@ -1,0 +1,11 @@
+C:\Users\Lindsey\Desktop\S3\Estr\D-calculator\obj\Debug\netcoreapp2.2\D-calculator.csprojAssemblyReference.cache
+C:\Users\Lindsey\Desktop\S3\Estr\D-calculator\obj\Debug\netcoreapp2.2\D-calculator.csproj.CoreCompileInputs.cache
+C:\Users\Lindsey\Desktop\S3\Estr\D-calculator\obj\Debug\netcoreapp2.2\D-calculator.AssemblyInfoInputs.cache
+C:\Users\Lindsey\Desktop\S3\Estr\D-calculator\obj\Debug\netcoreapp2.2\D-calculator.AssemblyInfo.cs
+C:\Users\Lindsey\Desktop\S3\Estr\D-calculator\bin\Debug\netcoreapp2.2\D-calculator.deps.json
+C:\Users\Lindsey\Desktop\S3\Estr\D-calculator\bin\Debug\netcoreapp2.2\D-calculator.runtimeconfig.json
+C:\Users\Lindsey\Desktop\S3\Estr\D-calculator\bin\Debug\netcoreapp2.2\D-calculator.runtimeconfig.dev.json
+C:\Users\Lindsey\Desktop\S3\Estr\D-calculator\bin\Debug\netcoreapp2.2\D-calculator.dll
+C:\Users\Lindsey\Desktop\S3\Estr\D-calculator\bin\Debug\netcoreapp2.2\D-calculator.pdb
+C:\Users\Lindsey\Desktop\S3\Estr\D-calculator\obj\Debug\netcoreapp2.2\D-calculator.dll
+C:\Users\Lindsey\Desktop\S3\Estr\D-calculator\obj\Debug\netcoreapp2.2\D-calculator.pdb
